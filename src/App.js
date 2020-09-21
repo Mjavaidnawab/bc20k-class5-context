@@ -14,7 +14,7 @@ function App() {
       <h1> PIAIC Boot Camp 2020 - Class 05 - Context API and Reducer</h1>
       <h1> Student Name : Muhammad Javaid Nawab overseas</h1>
       <h3> Github Repo: https://github.com/Mjavaidnawab/bc20k-class5-context  </h3>
-      <h3> Surge URL  : http://bc20k-class05-context.surge.sh/</h3>    
+      <h3> Surge URL  : http://bc20k-class5-context.surge.sh/</h3>    
 
         <Parent />
       </div>
